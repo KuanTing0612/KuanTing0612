@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there, I'm Jimmy. Welcome to my github.  
+###### tag=`Email:jimmy00681033@gmail.com`
+It's a place to show my projects.  
+I hope to share my projects with you.  
+If you interested in my projects, you can contact me with my Email  
 <!--
 **KuanTing0612/KuanTing0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
